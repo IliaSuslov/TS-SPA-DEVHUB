@@ -1,0 +1,42 @@
+{
+
+    "headers": ["ФИО", "Телефон", "Почта"],
+    "users": [
+      {
+        "id": 1,
+        "firstname": "Илья",
+        "middlename": "Алекс",
+        "lastname": "Суслов",
+        "avatar": "уцшуцц",
+        "email": "mail@mail.com",
+        "phone": "21312312"
+      },
+      {
+        "id": 2,
+        "firstname": "Илья",
+        "middlename": "Алекс",
+        "lastname": "Суслов",
+        "avatar": "уцшуцц",
+        "email": "mail@mail.com",
+        "phone": "21312312"
+      },
+      {
+        "id": 3,
+        "firstname": "Илья",
+        "middlename": "Алекс",
+        "lastname": "Суслов",
+        "avatar": "уцшуцц",
+        "email": "mail@mail.com",
+        "phone": "21312312"
+      },
+      {
+        "id": 4,
+        "firstname": "Илья",
+        "middlename": "Алекс",
+        "lastname": "Суслов",
+        "avatar": "уцшуцц",
+        "email": "mail@mail.com",
+        "phone": "21312312"
+      }
+    ]
+}
